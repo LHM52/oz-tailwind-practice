@@ -2,7 +2,7 @@
 
 /* App.jsx에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
 section {
-  display: flex;
+  display: flex; 
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
